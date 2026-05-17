@@ -21,7 +21,7 @@
         </br>
         <br>
             <div style="font-weight: 700; font-size: 15px; text-align: left; color: white;">Design</div>
-            <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+            <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
         </br>
         <br>
