@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: white;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: white;"> <li> 저는 선린인터넷고등학교 소프트웨어과 121기로 재학중이고 TAPIE 4기 개발자로 활동중인 전재민입니다.</li><li> 저는 풀스택 개발자이고 최근에는 Rust와 Elixir에 관심을 가지게 되어 공부 하고 있습니다.</li><li> 그리고 저는 극한의 효율과 최적화를 추구 하는 개발자로써 꾸준히 성장하는 모습을 보여줄것입니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: white;"> <li> 저는 선린인터넷고등학교 소프트웨어과 121기로 재학중이고 TAPIE 4기 개발자로 활동중인 전재민입니다.</li><li> 저는 풀스택 개발자이고 최근에는 Rust와 Elixir에 관심을 가지게 되어 공부 하고 있습니다.</li><li> 그리고 저는 극한의 효율과 최적화를 추구 하는 개발자로써 꾸준히 성장하는 모습을 보여주고 싶습니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: white;"> 🛠️ Tech Stacks </h2>
